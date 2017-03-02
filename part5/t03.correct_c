@@ -1,0 +1,17 @@
+running e2c t03
+#include <stdio.h>
+int main()
+{
+int x_a;
+int* x_0_a = &x_a;
+x_a=
+0;
+for (int x_i = 5;(x_i-10) <= 0 ;x_a++;)
+{
+x_i=
+x_a;
+x_a=
+x_a-1;
+}
+}
+

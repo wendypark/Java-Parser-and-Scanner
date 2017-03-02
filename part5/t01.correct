@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+for (int x_i = 5;(x_i-10) <= 0 ;x_i++;)
+{
+printf("%d\n",
+x_i);
+}
+}
